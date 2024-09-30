@@ -9,9 +9,9 @@ body {
   
   .personal-information {
     width: 60%;
-    margin: 50px auto;
+    margin: 40px auto;
     background: #fff;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
@@ -36,7 +36,7 @@ body {
   }
   
   p {
-    margin-bottom: 10px;
+    margin: auto;
     font-size: 16px;
     line-height: 1.6;
     color: #555;
@@ -147,4 +147,26 @@ body {
   button {
     background-color: #1814eb;
     color: white;
+    padding: 8px;
   }
+  .exp-container {
+    justify-content: center;
+    align-items: center;   
+    display: flex;
+  }
+
+  .container {
+    justify-content: center;
+    align-items: center;   
+    display: flex;
+    margin-bottom: 4px;
+  }
+
+  .edu-container {
+    justify-content: center;
+    align-items: center;   
+    display: flex;
+    margin-bottom: 4px;
+  }
+  
+  
