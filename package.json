@@ -1,0 +1,15 @@
+{
+  "name": "hackathon-resume-builder",
+  "version": "1.0.0",
+  "main": "milestone1&2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.4"
+  }
+}
